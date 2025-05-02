@@ -1,4 +1,4 @@
-# 🚀 Desafio CSPTech
+# 🚀 Desafio CSPTech - To Do MVC
 
 Repositório de testes automatizados para a aplicação TodoMVC (React) usando Cypress como ferramenta principal.
 
