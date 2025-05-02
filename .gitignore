@@ -1,0 +1,60 @@
+# Dependências
+/node_modules
+/.npm
+/.pnpm
+/.yarn
+/yarn-error.log
+/package-lock.json
+/yarn.lock
+/pnpm-lock.yaml
+
+# Cypress
+/cypress/downloads/
+/cypress/screenshots/
+/cypress/videos/
+/cypress/fixtures/examples
+/.cypress-cache
+
+# Ambiente
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDEs
+/.vscode
+/.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs
+*.log
+logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/coverage
+/test-results
+
+# Sistema
+.DS_Store
+Thumbs.db
+.tmp
+.temp
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Relatórios
+/reports
+/cypress/reports
+!.gitkeep
+
+# Cache
+.cache
+.nyc_output
