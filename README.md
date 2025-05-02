@@ -21,7 +21,7 @@ Repositório de testes automatizados para a aplicação TodoMVC (React) usando C
 1. Clone o repositório e instale as dependências:
 ```bash
    git clone https://github.com/allandxsh/desafio-csptech-todo.git
-   cd desafio-db
+   cd desafio-csptech-todo
    npm install
 ```
 
